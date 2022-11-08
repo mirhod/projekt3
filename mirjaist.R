@@ -1,1 +1,1 @@
-"Mirja ist toll"
+"Mirja ist toll"$
